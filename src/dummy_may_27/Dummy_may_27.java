@@ -13,7 +13,6 @@ public class Dummy_may_27 {
     public static void main(String[] args) {
         // TODO code application logic here
         // comments 1:37pm
-        // comments 1:40pm
     }
     
 }
